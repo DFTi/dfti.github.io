@@ -1,0 +1,30 @@
+body
+{
+  font-family: sans-serif;
+  font-size: 14px;
+  margin: 0;
+  padding: 10px;
+	overflow: hidden;
+}
+
+header,footer {
+  text-align:center;
+}
+
+#welcome {
+  font-size:200%;
+  margin:20px;
+}
+
+a:link, a:visited, a:active, a:hover, td a:link, td a:visited, td a:active
+{
+	font-color: #00458b;
+	color: #00458B;
+	text-decoration: none;
+}
+
+td a:hover
+{
+	text-decoration: underline;
+	color: #b9090b;
+}
